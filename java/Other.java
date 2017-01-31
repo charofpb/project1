@@ -7,6 +7,6 @@
 public class Hello{
 
     public static main (String args[]){
-        printf("aaa in hello");
+        printf("aaa in other");
     }
 }
